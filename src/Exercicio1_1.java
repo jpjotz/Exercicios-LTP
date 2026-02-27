@@ -31,6 +31,8 @@ public class Exercicio1_1 {
 		mediaNota = somaNota / 3;
 		
 		System.out.println("A soma das notas do(a) aluno(a) " + nome + " é " + somaNota + " e a média de suas notas é " + mediaNota);
+
+		leia.close();
 	}
 
 }

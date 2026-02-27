@@ -23,6 +23,8 @@ public class Exercicio1_3 {
 		valorTotal = valor + valorRecebido;
 
 		System.out.println("O valor recebido foi " + valorRecebido + " e o valor total é " + valorTotal);
+
+		leia.close();
 	}
 }
 

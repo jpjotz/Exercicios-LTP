@@ -22,6 +22,8 @@ public class Exercicio1_2 {
 		novoSal = salario + aumento;
 
 		System.out.print("O novo salário de " + nome + " é " + novoSal);
+
+		leia.close();
 		
 	}
 }
