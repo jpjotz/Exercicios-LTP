@@ -1,4 +1,4 @@
 .vscode/
-.bin/
-.lib/
+bin/
+lib/
 desktop.ini
