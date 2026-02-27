@@ -1,0 +1,1 @@
+Um repositório que armazena todos os exercícios e trabalhos da matéria de Linguagens e Técnicas de Programação da Universidade FUMEC.
