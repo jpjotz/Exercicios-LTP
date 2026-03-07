@@ -27,7 +27,10 @@ public class Exercicio2_4 {
 
         media = (nota1 + nota2 + nota3) / 3;
 
-        if (media >= 7) {
+        if(nota1 < 0|| nota2 < 0|| nota3 < 0 || nota1 > 10 || nota2 > 10 || nota3 > 10 ) {
+            System.out.println("Digite uma nota maior que 0 e menor que 10!");
+            return;
+        } else if (media >= 7) {
             System.out.printf("Média: %.2f - Aluno: %s aprovado!", media, nome);
         } else if (media <= 4) {
             System.out.printf("Média: %.2f - Aluno; %s reprovado!", media, nome);
