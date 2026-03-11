@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Exercicio4_4 {
+public class Exercicio3_4 {
     public static void main(String[] args) {
 
         int matricula;
