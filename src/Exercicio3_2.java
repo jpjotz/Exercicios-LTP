@@ -17,7 +17,7 @@ public class Exercicio3_2 {
         while (numero >= 1) {
             System.out.print(numero);
 
-            fatorial = fatorial * numero;
+            fatorial *= numero;
             numero--;
 
             if (numero >= 1) {
