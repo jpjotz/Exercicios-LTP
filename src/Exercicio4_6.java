@@ -90,4 +90,4 @@ public class Exercicio4_6 {
     }
 }
 
-// Código feito: João Pedro do Espírito Santo Ribeiro
+// Código feito por: João Pedro do Espírito Santo Ribeiro
